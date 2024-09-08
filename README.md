@@ -1,4 +1,4 @@
-![CS-Dingtalk-Bot](https://socialify.git.ci/b3nguang/CS-Dingtalk-Bot/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
+![CS-Dingtalk-Bot](https://socialify.git.ci/b3nguang/CS-Dingtalk-Bot/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121670274%3Fs%3D400%26u%3D686132087f2e2324958b610f905a1b388478295b%26v%3D4&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 
 ## ✈️ 一、工具特性
 
